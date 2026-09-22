@@ -14,22 +14,28 @@ Authentication is mocked for this assignment.
 ## Screenshots
 
 ### Login
-![Login](screenshots/login.png)
+
+<img src="screenshots/login.png" alt="Login" width="250"/>
 
 ### Doctor List
-![Doctor List](screenshots/doctor-list.png)
+
+<img src="screenshots/doctor-list.png" alt="Doctor List" width="250"/>
 
 ### Doctor Details
-![Doctor Details](screenshots/doctor-details.png)
+
+<img src="screenshots/doctor-details.png" alt="Doctor Details" width="250"/>
 
 ### Appointment
-![Appointment](screenshots/appointment-booking.png)
+
+<img src="screenshots/appointment-booking.png" alt="Appointment" width="250"/>
 
 ### My Appointments
-![My Appointments](screenshots/my-appointments.png)
+
+<img src="screenshots/my-appointments.png" alt="My Appointments" width="250"/>
 
 ### Offline Appointment Queue
-![Offline Appointment Queue](screenshots/offline-appointment-queue.png)
+
+<img src="screenshots/offline-appointment-queue.png" alt="Offline Appointment Queue" width="250"/>
 
 ## Features
 
