@@ -127,7 +127,7 @@ flutter run
 ## APK
 
 The Android APK is included in the repository:
-[Download Android APK](apk/app-release.apk)
+[Download Android APK](https://github.com/iambhargavnath/medmylife/releases/download/1.0.0/app-release.apk)
 
 
 ## Project Structure
