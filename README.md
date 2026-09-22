@@ -2,6 +2,13 @@
 
 A simplified healthcare appointment management app built with Flutter.
 
+## Versions
+
+- **Flutter:** 3.47.5
+- **Dart:** 3.13.4
+- **DevTools:** 2.60.0
+
+
 ## Demo Login
 
 ```text
