@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../features/auth/presentation/login_screen.dart';
+import '../features/auth/presentation/auth_gate.dart';
 
 class MedmylifeApp extends StatelessWidget {
   const MedmylifeApp({super.key});
@@ -15,7 +15,7 @@ class MedmylifeApp extends StatelessWidget {
         ),
         useMaterial3: true,
       ),
-      home: const LoginScreen(),
+      home: const AuthGate(),
     );
   }
 }
