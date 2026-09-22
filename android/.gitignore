@@ -1,13 +1,38 @@
+# Gradle
+.gradle/
+gradle/
+build/
+**/build/
+
+# Gradle wrapper
 gradle-wrapper.jar
-/.gradle
-/captures/
 /gradlew
 /gradlew.bat
+
+# Android
 /local.properties
-GeneratedPluginRegistrant.java
+/captures/
+/GeneratedPluginRegistrant.java
 .cxx/
 
-# Remember to never publicly share your keystore.
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+pubspec.lock
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Android build outputs
+*.apk
+*.aab
+
+# Signing / keystore
+# Never publicly share your keystore.
 # See https://flutter.dev/to/reference-keystore
 key.properties
 **/*.keystore
